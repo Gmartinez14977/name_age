@@ -19,7 +19,7 @@ Conclusion
 
 In summary, learning how to use these IDE features can help me become a better beginning programmer because they make code easier to read, understand, and organize. As I continue learning programming, I think becoming comfortable with these features will make it easier for me to work with more complex programs. This experience also helped me realize that programming is not just about writing code. It also involves organization, paying attention to details, and being able to explain what I am doing.
 
-References## IDE Features Reflection
-Street Side Software. (n.d.). Code Spell Checker. GitHub. Retrieved August 25, 2026, from Code Spell Checker
-Microsoft. (n.d.). Basic editing. Visual Studio Code. Retrieved August 25, 2026, from Basic editing in Visual Studio Code
+References## 
+Microsoft. (n.d.). Basic editing. Visual Studio Code. Retrieved September 13, 2026, from https://code.visualstudio.com/docs/editor/codebasics
+Street Side Software. (n.d.). Code Spell Checker. GitHub. Retrieved September 13, 2026, from https://github.com/streetsidesoftware/vscode-spell-checker
 
