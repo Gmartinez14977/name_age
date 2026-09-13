@@ -21,5 +21,6 @@ In summary, learning how to use these IDE features can help me become a better b
 
 References## 
 Microsoft. (n.d.). Basic editing. Visual Studio Code. Retrieved September 13, 2026, from https://code.visualstudio.com/docs/editor/codebasics
+
 Street Side Software. (n.d.). Code Spell Checker. GitHub. Retrieved September 13, 2026, from https://github.com/streetsidesoftware/vscode-spell-checker
 
